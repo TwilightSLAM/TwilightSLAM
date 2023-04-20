@@ -11,3 +11,5 @@ As this project was worked on by 5 students, system requirements vary for each r
 For a brief overview of our project, we recommend watching our presentation on [YouTube](https://www.youtube.com/watch?v=qe87hcqmZm0).
 
 For a more indepth look at our project and the results, you can find a PDF of our report [here]().
+
+Go Blue!
